@@ -1,5 +1,3 @@
-#Question 1
-
 #program to accept the amount and the desired option,whether to convert the amount to word representation or to USD currency
 
 import math
